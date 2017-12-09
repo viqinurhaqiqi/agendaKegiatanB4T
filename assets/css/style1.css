@@ -1,0 +1,69 @@
+body{
+	margin: 0 auto;
+	font-family: Arial;
+	background-color: red;
+	background-image: url('../img/background5.jpg');
+	background-repeat:repeat;
+	background-size: cover;
+}
+
+.col-md-4 p{
+	float: left;
+	margin-top: 155px;
+	margin-left: 90px;
+	color: #ffffff;
+	font-size: 68px;
+	font-weight: bold;
+	
+
+}
+
+.col-md-8 h1{
+	width: 500px;
+	margin-left: 50px;
+	margin-top: 105px;
+	color: #D12907;
+	font-weight: bold;
+}
+
+.col-md-8 .isi{
+	margin-top: 80px;
+	width: 649px;
+	height: 159px;
+}
+
+.isi h2{
+	color: #D12907;
+}
+
+.col-md-8 .isiWaktu{
+
+}
+
+.col-md-8 .isiWaktu h2{
+	color: #D12907;
+	margin-top: 26px;
+}
+.floatright{
+	float: right;
+}
+.floatright h5{
+	text-align: right;
+	color: #D12907;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+#list_jadwal{
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+#list_jadwal span{
+	font-size: 12px;
+}
+
+.a{
+	margin-left: 30px;
+}
