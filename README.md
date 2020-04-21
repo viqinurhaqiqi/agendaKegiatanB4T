@@ -6,8 +6,6 @@ Fitur Aplikasi :
 - Mengelola agenda kegiatan B4T
 - Menampilkan agenda kegiatan B4T
 
-Link : http://agenda.b4t.go.id/
-
 Screenshoot aplikasi :
 
 ![gambar](https://user-images.githubusercontent.com/32282290/49949816-2d16a180-ff29-11e8-9ea8-5ecea973f837.png)
